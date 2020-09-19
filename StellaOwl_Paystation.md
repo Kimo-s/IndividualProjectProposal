@@ -4,6 +4,7 @@
 _Trees on Numbers_ will be a contributing to the NumPy library mainly focusing on making more abstract data structures, higher level classes for vectors and functions relating to graph theory and implementing graphs. Inserting the new classes for those three objectives will be the main goal of the project. The motivation for this project is to make it easier to use NumPy library in other projects that needs graphs and vectors specifically. An example for this extension being useful is game renders or 2D graphic projects.
 
 _A simple early development digram:_ 
+
 ![UML digram](Karim_(Trees_on_Numbers).png)
 
 ## Project Relevance
