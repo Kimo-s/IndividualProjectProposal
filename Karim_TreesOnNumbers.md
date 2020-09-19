@@ -5,7 +5,7 @@ _Trees on Numbers_ will be a contributing to the NumPy library mainly focusing o
 
 _A simple early development digram:_ 
 
-![UML digram](Karim_(Trees_on_Numbers).png)
+![UML digram](Karim_TreesOnNumbers.png.png)
 
 ## Project Relevance
 This extension will be using the object-oriented design since NumPy is in python and does use classes in API. It also will have test driven development since the functions of the classes could be tested for returning results even before writing them. Using debugging will be a possibility and made easy in python. The extension will be something that requires NumPy or made as a contribution to NumPy itself.
